@@ -18,7 +18,7 @@
         <dependency>
             <groupId>net.minestom</groupId>
             <artifactId>minestom-snapshots</artifactId>
-            <version>1_21_4-f8e052b05c</version>
+            <version>1_21_4-44b34717ed</version>
             <scope>compile</scope>
         </dependency>
         <dependency>

@@ -6,7 +6,7 @@ import net.minestom.server.entity.*;
 import net.minestom.server.instance.Instance;
 import net.minestom.server.network.packet.server.play.EntityMetaDataPacket;
 import net.minestom.server.network.packet.server.play.PlayerInfoUpdatePacket;
-import net.torode.GamePlayer;
+import net.torode.player.GamePlayer;
 
 import java.util.ArrayList;
 import java.util.Map;

@@ -1,0 +1,12 @@
+red_light_green_light:
+  # ticks
+  green_light_lower_bound: 40
+  green_light_upper_bound: 70
+  red_light_lower_bound: 30
+  red_light_upper_bound: 60
+  margin_of_error:
+    x: 0.5
+    y: 0.5
+    z: 0.5
+    yaw: 5
+    pitch: 5
